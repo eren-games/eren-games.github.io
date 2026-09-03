@@ -1,4 +1,5 @@
-        "rczjyhbc":
+const GAME_URLS = {
+      "rczjyhbc":
        atob("aHR0cHM6Ly9iYXNrZXRiYWxsLWdhbWVzLnh5ei8yMDQ4"),
 
         "ycdidlsx":
@@ -2826,3 +2827,4 @@
 
         "jktddknl":
        atob("aHR0cHM6Ly9iYXNrZXRiYWxsLWdhbWVzLnh5ei96dWNrLXZzLW11c2stdGVjaGJyby1iZWF0ZG93bg=="),
+};
