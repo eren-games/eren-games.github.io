@@ -974,5 +974,5 @@ const GAME_URLS = {
 "nblzbiwv":atob("aHR0cHM6Ly9iZWFrb2dhbWVzLm9ubGluZS90aWdlci1zaW11bGF0b3ItM2Qv"),
 "tyuowhxr":atob("aHR0cHM6Ly9wbGF5Z2FtYS5jb20vZXhwb3J0L2dhbWUvdGlsZS12YWxsZXk/Y2xpZD1wX2YzODIxM2U1LTU1N2QtNDExNy04YjRkLTBiZWQ0MjIzNTQ4ZQ=="),
 "mvsfowmx":atob("aHR0cHM6Ly9iZWFrb2dhbWVzLm9ubGluZS91bm8tNC1jb2xvcnMtbXVsdGlwbGF5ZXIv"),
-"tfgyuiop"atob("aHR0cHM6Ly9iZWFrb2dhbWVzLm9ubGluZS9ibG9jay1icmVha2VyLw=="),
+"tfgyuiop":atob("aHR0cHM6Ly9iZWFrb2dhbWVzLm9ubGluZS9ibG9jay1icmVha2VyLw=="),
 }
